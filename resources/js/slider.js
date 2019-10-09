@@ -11,8 +11,10 @@ $(document).ready(function() {
                 settings: {
                     arrows: false,
                     centerMode: true,
-                    centerPadding: '40px',
-                    slidesToShow: 1
+                    centerPadding: '160px',
+                    slidesToShow: 1,
+                    autoplay: true,
+                    autoplaySpeed: 2000,
                 }
             },
             {
@@ -21,7 +23,9 @@ $(document).ready(function() {
                     arrows: false,
                     centerMode: true,
                     centerPadding: '40px',
-                    slidesToShow: 1
+                    slidesToShow: 1,
+                    autoplay: true,
+                    autoplaySpeed: 2000,
                 }
             }
         ]

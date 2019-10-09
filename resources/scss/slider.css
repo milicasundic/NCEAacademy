@@ -192,4 +192,10 @@
   height: auto;
 }
 
+@media screen and (max-width: 768px) {
+  .slick-slide {
+    margin: 0 30px;
+  }
+}
+
 /*# sourceMappingURL=slider.css.map */

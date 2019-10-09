@@ -45,7 +45,6 @@
 }
 
 #slider{
-  height: 300px;
   padding: 0 40px;
   margin: 20px 0;
 }
@@ -113,6 +112,31 @@
 
     textarea{
       grid-row-end: span 3;
+    }
+  }
+}
+
+@media screen and (max-width: 1366px) {
+  .content-wrapper-s {
+    width: 100%;
+  }
+
+  #contact {
+    form {
+      width: 90%;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #reviews{
+    article{
+      div{
+        p{
+          padding-top: 30px;
+          font-size: 18px;
+        }
+      }
     }
   }
 }

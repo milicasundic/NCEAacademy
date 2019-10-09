@@ -61,6 +61,19 @@ header #image-text-holder p {
   font-size: 16px;
 }
 
+@media screen and (max-width: 1366px) {
+  header {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 768px) {
+  header #image-text-holder h1 {
+    font-size: 25px;
+  }
+  header #image-text-holder p {
+    font-size: 14px;
+  }
+}
 /* COLORS */
 nav {
   background-color: #1E3B67;
@@ -176,7 +189,6 @@ footer {
   padding: 20px;
 }
 footer #pwr-by {
-  width: 1300px;
   padding-top: 20px;
   border-top: 1px solid #b1b1b1;
   margin: 0 auto;
@@ -187,6 +199,11 @@ footer #pwr-by img {
   height: 50px;
 }
 
+@media screen and (max-width: 1366px) {
+  footer #pwr-by {
+    width: 100%;
+  }
+}
 .content-wrapper-s {
   width: 1300px;
   margin: 5px auto;
@@ -220,7 +237,6 @@ footer #pwr-by img {
 }
 
 #slider {
-  height: 300px;
   padding: 0 40px;
   margin: 20px 0;
 }
@@ -278,6 +294,22 @@ footer #pwr-by img {
 }
 #contact form textarea {
   grid-row-end: span 3;
+}
+
+@media screen and (max-width: 1366px) {
+  .content-wrapper-s {
+    width: 100%;
+  }
+
+  #contact form {
+    width: 90%;
+  }
+}
+@media screen and (max-width: 768px) {
+  #reviews article div p {
+    padding-top: 30px;
+    font-size: 18px;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */

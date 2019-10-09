@@ -2,7 +2,6 @@ footer{
   padding: 20px;
 
   #pwr-by{
-    width: 1300px;
     padding-top: 20px;
     border-top: 1px solid $grey;
     margin: 0 auto;
@@ -11,6 +10,14 @@ footer{
 
     img{
       height: 50px;
+    }
+  }
+}
+
+@media screen and (max-width: 1366px) {
+  footer{
+    #pwr-by{
+      width: 100%;
     }
   }
 }

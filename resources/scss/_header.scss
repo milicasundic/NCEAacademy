@@ -30,3 +30,22 @@ header{
 
   }
 }
+
+@media screen and (max-width: 1366px) {
+  header{
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  header{
+    #image-text-holder{
+      h1{
+        font-size: 25px;
+      }
+      p{
+        font-size: 14px;
+      }
+    }
+  }
+}
