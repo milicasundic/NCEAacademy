@@ -152,6 +152,12 @@
       padding-top: 50px;
       h2{
         font-size: 35px;
+        span{
+          &:first-of-type{
+            font-size: 30px;
+          }
+          display: block;
+        }
       }
       p{
         font-size: 18px;
