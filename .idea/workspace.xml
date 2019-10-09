@@ -21,12 +21,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RqGnSJiAFJ4vbFVC9tAQ8Y5lZ0" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Original-Flappy-bird-JavaScript-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
@@ -70,6 +73,7 @@
       <workItem from="1570387379697" duration="15516000" />
       <workItem from="1570446260646" duration="11211000" />
       <workItem from="1570518278644" duration="1315000" />
+      <workItem from="1570603131164" duration="4030000" />
     </task>
     <servers />
   </component>
