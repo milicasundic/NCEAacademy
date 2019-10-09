@@ -44,8 +44,11 @@ header {
   margin: 5px auto 0 auto;
   position: relative;
 }
-header img {
+header #banner {
   width: 100%;
+}
+header #logo {
+  display: none;
 }
 header #image-text-holder {
   position: absolute;
@@ -81,6 +84,14 @@ header #image-text-holder p {
   }
 }
 @media screen and (max-width: 480px) {
+  header #banner {
+    display: none;
+  }
+  header #logo {
+    display: block;
+    height: 60px;
+    margin: 13px auto 10px auto;
+  }
   header #image-text-holder h1 {
     display: none;
   }

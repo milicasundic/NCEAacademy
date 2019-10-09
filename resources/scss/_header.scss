@@ -3,8 +3,12 @@ header{
   margin: 5px auto 0 auto;
   position: relative;
 
-  img{
+  #banner{
     width: 100%;
+  }
+
+  #logo{
+    display: none;
   }
 
   #image-text-holder{
@@ -52,6 +56,14 @@ header{
 
 @media screen and (max-width: 480px) {
   header{
+    #banner{
+      display: none;
+    }
+    #logo{
+      display: block;
+      height: 60px;
+      margin: 13px auto 10px auto;
+    }
     #image-text-holder{
       h1{
         display: none;
