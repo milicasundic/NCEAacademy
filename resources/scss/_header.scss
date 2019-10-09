@@ -49,3 +49,16 @@ header{
     }
   }
 }
+
+@media screen and (max-width: 480px) {
+  header{
+    #image-text-holder{
+      h1{
+        display: none;
+      }
+      p{
+        display: none;
+      }
+    }
+  }
+}

@@ -17,6 +17,10 @@ nav{
     margin-right: 35px;
     position: relative;
 
+    &:last-of-type{
+      margin-right: 0;
+    }
+
     a{
       display: block;
       margin: 0 auto;
@@ -55,6 +59,22 @@ nav{
     &:nth-of-type(4) a{
       background: url("../../resources/images/courses_white.png") center no-repeat;
       background-size: 30px;
+    }
+  }
+}
+
+@media screen and (max-width: 480px) {
+  nav{
+    height: 60px;
+    li{
+      height: 30px;
+      a{
+        height: 30px;
+        width: 30px;
+      }
+      span{
+        visibility: hidden;
+      }
     }
   }
 }

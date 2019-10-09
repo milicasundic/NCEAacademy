@@ -5,14 +5,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/slider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/scss/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/_nav.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/scss/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/scss/slider.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/slider.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/scss/slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/slider.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +83,7 @@
       <workItem from="1570446260646" duration="11211000" />
       <workItem from="1570518278644" duration="1315000" />
       <workItem from="1570603131164" duration="4030000" />
-      <workItem from="1570608675010" duration="5257000" />
+      <workItem from="1570608675010" duration="7630000" />
     </task>
     <servers />
   </component>

@@ -93,7 +93,6 @@
 }
 
 #contact{
-
   h3{
     text-align: center;
     width: 100%;
@@ -124,6 +123,12 @@
   #contact {
     form {
       width: 90%;
+      div{
+        &:nth-of-type(4){
+          grid-column-start: 2;
+          grid-row-start: 1;
+        }
+      }
     }
   }
 }
@@ -136,6 +141,54 @@
           padding-top: 30px;
           font-size: 18px;
         }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .content-wrapper-s{
+    #welcome-text{
+      padding-top: 50px;
+      h2{
+        font-size: 35px;
+      }
+      p{
+        font-size: 18px;
+        padding: 0 20px;
+      }
+    }
+  }
+
+  #reviews{
+    article{
+      grid-template-columns: 1fr;
+      img{
+        padding: 30px;
+      }
+      div{
+        padding: 0 30px 30px 30px;
+        p{
+          padding-top: 0;
+          text-align: justify;
+        }
+      }
+    }
+  }
+
+  #contact{
+    h3{
+      span{
+        display: block;
+        &:not(:last-of-type){
+          margin-bottom: 2px;
+        }
+      }
+    }
+    form{
+      display: block;
+      textarea{
+        height: 200px;
       }
     }
   }
