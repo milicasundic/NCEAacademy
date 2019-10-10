@@ -352,7 +352,7 @@ footer #pwr-by img {
 
 @media screen and (max-width: 1366px) {
   .content-wrapper-s {
-    width: 100%;
+    width: 80%;
   }
 
   #contact form {
@@ -361,6 +361,11 @@ footer #pwr-by img {
   #contact form div:nth-of-type(4) {
     grid-column-start: 2;
     grid-row-start: 1;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .content-wrapper-s {
+    width: 100%;
   }
 }
 @media screen and (max-width: 768px) {

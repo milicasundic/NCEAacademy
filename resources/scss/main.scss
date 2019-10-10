@@ -125,7 +125,7 @@
 
 @media screen and (max-width: 1366px) {
   .content-wrapper-s {
-    width: 100%;
+    width: 80%;
   }
 
   #contact {
@@ -138,6 +138,12 @@
         }
       }
     }
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .content-wrapper-s {
+    width: 100%;
   }
 }
 
