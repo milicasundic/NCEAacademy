@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dcc61ab-7c7c-4438-872b-20bd84441e04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/images/NCEA Academy Header 1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/_nav.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,11 +38,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/images" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\NCEAacademy\resources\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\nceaacademy.org" />
     </key>
@@ -79,7 +86,8 @@
       <workItem from="1570446260646" duration="11211000" />
       <workItem from="1570518278644" duration="1315000" />
       <workItem from="1570603131164" duration="4030000" />
-      <workItem from="1570608675010" duration="9014000" />
+      <workItem from="1570608675010" duration="10519000" />
+      <workItem from="1570695492014" duration="865000" />
     </task>
     <servers />
   </component>
@@ -91,7 +99,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

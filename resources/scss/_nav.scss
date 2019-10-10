@@ -2,7 +2,7 @@
 
 nav{
   background-color: $blue;
-  height: 70px;
+  height: 75px;
   display: flex;
   align-items: center;
 
@@ -13,8 +13,7 @@ nav{
 
   li{
     display: inline-block;
-    height: 35px;
-    margin-right: 35px;
+    margin-right: 90px;
     position: relative;
 
     &:last-of-type{
@@ -22,41 +21,45 @@ nav{
     }
 
     a{
-      display: block;
+      display: grid;
+      justify-content: center;
       margin: 0 auto;
-      height: 35px;
-      width: 35px;
 
-      &:hover{
+      &:hover div,
+      &:hover span{
         opacity: .8;
+      }
+
+      div{
+        height: 35px;
+        width: 35px;
+        margin: 0 auto;
+      }
+
+      span{
+        color: rgba(255,255,255,.9);
+        border-radius: 3px;
+        font-size: 15px;
+        white-space: nowrap;
+        display: block;
+        margin-top: 5px;
       }
     }
 
-    span{
-      display: none;
-      position: absolute;
-      background-color: rgba(0,0,0,.7);
-      color: rgba(255,255,255,.9);
-      border-radius: 3px;
-      top: 40px;
-      font-size: 15px;
-      padding: 8px 10px;
-      white-space: nowrap;
-    }
 
-    &:nth-of-type(1) a{
+    &:nth-of-type(1) a div{
       background: url("../../resources/images/design_white.png") center no-repeat;
       background-size: 30px;
     }
-    &:nth-of-type(2) a{
+    &:nth-of-type(2) a div{
       background: url("../../resources/images/microcredential_white.png") center no-repeat;
       background-size: 30px;
     }
-    &:nth-of-type(3) a{
+    &:nth-of-type(3) a div{
       background: url("../../resources/images/blended_white.png") center no-repeat;
       background-size: 30px;
     }
-    &:nth-of-type(4) a{
+    &:nth-of-type(4) a div{
       background: url("../../resources/images/courses_white.png") center no-repeat;
       background-size: 30px;
     }
