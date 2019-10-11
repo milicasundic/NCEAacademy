@@ -7,10 +7,13 @@
 
 @import url('https://fonts.googleapis.com/css?family=Cabin:400,400i,500&display=swap');
 
+.separator{
+  border-top: 7px solid $green;
+}
+
 .content-wrapper-s{
   width: 1300px;
   margin: 5px auto;
-  border-top: 3px solid $green;
 
   #welcome-text{
     text-align: center;
@@ -30,7 +33,7 @@
 
   .button{
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 50px;
     background: $light-blue;
     padding: 10px 20px;
     border-radius: 5px;
