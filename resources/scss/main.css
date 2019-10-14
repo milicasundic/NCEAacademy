@@ -516,13 +516,14 @@ footer #pwr-by img {
   }
   .content-wrapper-s .images-block-3 a {
     display: block;
+    margin-bottom: 30px;
   }
   .content-wrapper-s .images-block-3 a article img {
     width: 100%;
     padding: 20px;
   }
   .content-wrapper-s .images-block-3 a article p {
-    padding: 0 50px 50px 50px;
+    padding: 0 10px 20px 10px;
   }
   .content-wrapper-s .images-block-3 a:not(:last-of-type) {
     border-right: none;
@@ -533,8 +534,13 @@ footer #pwr-by img {
   .content-wrapper-s #welcome-text {
     padding-top: 50px;
   }
+  .content-wrapper-s #welcome-text div {
+    display: block;
+  }
   .content-wrapper-s #welcome-text h2 {
+    margin-top: 10px;
     font-size: 35px;
+    display: block;
   }
   .content-wrapper-s #welcome-text h2 span {
     display: block;

@@ -250,6 +250,8 @@
 
       a {
         display: block;
+        margin-bottom: 30px;
+
         article{
           img {
             width: 100%;
@@ -257,7 +259,7 @@
           }
 
           p{
-            padding: 0 50px 50px 50px;
+            padding: 0 10px 20px 10px;
           }
         }
 
@@ -275,8 +277,14 @@
     #welcome-text {
       padding-top: 50px;
 
+      div{
+        display: block;
+      }
+
       h2 {
+        margin-top: 10px;
         font-size: 35px;
+        display: block;
 
         span {
           &:first-of-type {
