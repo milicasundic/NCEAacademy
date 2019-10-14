@@ -356,9 +356,14 @@ footer #pwr-by img {
   grid-template-columns: repeat(3, 1fr);
   margin-bottom: 50px;
 }
-.content-wrapper-s .images-block-3 a img {
+.content-wrapper-s .images-block-3 a article img {
   width: 100%;
   padding: 20px;
+}
+.content-wrapper-s .images-block-3 a article p {
+  padding: 0 50px;
+  text-align: justify;
+  color: #000000;
 }
 .content-wrapper-s .images-block-3 a:not(:last-of-type) {
   border-right: 1px solid #b1b1b1;
@@ -509,9 +514,15 @@ footer #pwr-by img {
     display: block;
     padding: 0 50px;
   }
-  .content-wrapper-s .images-block-3 a img {
+  .content-wrapper-s .images-block-3 a {
+    display: block;
+  }
+  .content-wrapper-s .images-block-3 a article img {
     width: 100%;
     padding: 20px;
+  }
+  .content-wrapper-s .images-block-3 a article p {
+    padding: 0 50px 50px 50px;
   }
   .content-wrapper-s .images-block-3 a:not(:last-of-type) {
     border-right: none;

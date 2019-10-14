@@ -51,10 +51,17 @@
     margin-bottom: 50px;
 
     a{
-      img{
-        width: 100%;
-        padding: 20px;
+      article{
+        img{
+          width: 100%;
+          padding: 20px;
+        }
 
+        p{
+          padding: 0 50px;
+          text-align: justify;
+          color: #000000;
+        }
       }
 
       &:not(:last-of-type){
@@ -242,10 +249,16 @@
       padding: 0 50px;
 
       a {
-        img {
-          width: 100%;
-          padding: 20px;
+        display: block;
+        article{
+          img {
+            width: 100%;
+            padding: 20px;
+          }
 
+          p{
+            padding: 0 50px 50px 50px;
+          }
         }
 
         &:not(:last-of-type) {

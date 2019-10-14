@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9dcc61ab-7c7c-4438-872b-20bd84441e04" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blended-options.html" beforeDir="false" afterPath="$PROJECT_DIR$/blended-options.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-offerings.html" beforeDir="false" afterPath="$PROJECT_DIR$/course-offerings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designed-by-experts.html" beforeDir="false" afterPath="$PROJECT_DIR$/designed-by-experts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/g-suite-cources.html" beforeDir="false" afterPath="$PROJECT_DIR$/g-suite-cources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.scss" afterDir="false" />
@@ -89,7 +93,7 @@
       <workItem from="1570775056031" duration="1106000" />
       <workItem from="1570984697018" duration="366000" />
       <workItem from="1571062506057" duration="1983000" />
-      <workItem from="1571066682317" duration="6745000" />
+      <workItem from="1571066682317" duration="8046000" />
     </task>
     <servers />
   </component>
