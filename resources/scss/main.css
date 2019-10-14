@@ -11,6 +11,12 @@
   box-sizing: border-box;
 }
 
+body {
+  min-height: 99vh;
+  position: relative;
+  padding-bottom: 100px;
+}
+
 #back-to-top {
   display: none;
   position: fixed;
@@ -143,6 +149,9 @@ nav li a {
 nav li a:hover div, nav li a:hover span {
   opacity: 0.8;
 }
+nav li a.current-page {
+  opacity: 0.6;
+}
 nav li a div {
   height: 35px;
   width: 35px;
@@ -262,6 +271,9 @@ nav li:nth-of-type(4) a div {
 
 footer {
   padding: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 footer #pwr-by {
   padding-top: 20px;
@@ -377,6 +389,17 @@ footer #pwr-by img {
 }
 #contact form div textarea {
   grid-row-end: span 3;
+}
+
+.text {
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+.text p {
+  margin: 0 20px 20px 20px;
+  font-size: 18px;
+  text-align: center;
 }
 
 @media screen and (max-width: 1366px) {

@@ -1,6 +1,8 @@
 footer{
   padding: 20px;
-
+  position: absolute;
+  bottom: 0;
+  width: 100%;
   #pwr-by{
     padding-top: 20px;
     border-top: 1px solid $grey;

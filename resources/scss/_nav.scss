@@ -30,6 +30,10 @@ nav{
         opacity: .8;
       }
 
+      &.current-page{
+        opacity: .6;
+      }
+
       div{
         height: 35px;
         width: 35px;

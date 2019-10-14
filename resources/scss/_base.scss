@@ -10,6 +10,12 @@
   box-sizing: border-box;
 }
 
+body{
+  min-height: 99vh;
+  position: relative;
+  padding-bottom: 100px;
+}
+
 #back-to-top{
   display: none;
   position: fixed;

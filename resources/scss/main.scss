@@ -126,6 +126,17 @@
   }
 }
 
+.text{
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  p{
+    margin: 0 20px 20px 20px;
+    font-size: 18px;
+    text-align: center;
+  }
+}
+
 @media screen and (max-width: 1366px) {
   .content-wrapper-s {
     width: 80%;

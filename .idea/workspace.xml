@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dcc61ab-7c7c-4438-872b-20bd84441e04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blended-options.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-offerings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designed-by-experts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microcredentials.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/scss/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/_base.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/scss/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/_nav.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/scss/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/scss/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/scss/slider.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/slider.css.map" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,11 +49,12 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\NCEAacademy" />
+      <recent name="C:\wamp64\www\nceaacademy.org" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\NCEAacademy\resources\images" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\nceaacademy.org" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -85,7 +97,8 @@
       <workItem from="1570695492014" duration="4766000" />
       <workItem from="1570775056031" duration="1106000" />
       <workItem from="1570984697018" duration="366000" />
-      <workItem from="1571062506057" duration="1100000" />
+      <workItem from="1571062506057" duration="1983000" />
+      <workItem from="1571066682317" duration="1765000" />
     </task>
     <servers />
   </component>
