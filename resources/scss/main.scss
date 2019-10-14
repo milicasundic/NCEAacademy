@@ -45,6 +45,24 @@
     }
   }
 
+  .images-block-3{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-bottom: 50px;
+
+    a{
+      img{
+        width: 100%;
+        padding: 20px;
+
+      }
+
+      &:not(:last-of-type){
+        border-right: 1px solid $grey;
+      }
+    }
+  }
+
   .button{
     display: inline-block;
     margin-top: 50px;
@@ -214,6 +232,25 @@
         &:nth-of-type(4){
           grid-column-start: 2;
           grid-row-start: 1;
+        }
+      }
+    }
+  }
+  .content-wrapper-s {
+    .images-block-3 {
+      display: block;
+      padding: 0 50px;
+
+      a {
+        img {
+          width: 100%;
+          padding: 20px;
+
+        }
+
+        &:not(:last-of-type) {
+          border-right: none;
+          border-bottom: 1px solid $grey;
         }
       }
     }
