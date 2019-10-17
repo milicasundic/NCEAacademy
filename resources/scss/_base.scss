@@ -40,6 +40,10 @@ body{
   }
 }
 
+.grecaptcha-badge{
+  display: none !important;
+}
+
 @media screen and (max-width: 480px) {
   #back-to-top{
     bottom: 15px;

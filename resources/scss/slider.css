@@ -38,6 +38,10 @@ body {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
 
+.grecaptcha-badge {
+  display: none !important;
+}
+
 @media screen and (max-width: 480px) {
   #back-to-top {
     bottom: 15px;
@@ -89,7 +93,7 @@ body {
 }
 
 .slick-track {
-  padding: 10px 0;
+  padding: 20px 0;
   position: relative;
   left: 0;
   top: 0;
@@ -195,9 +199,15 @@ body {
   transform: scale(0.7);
   transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
+.slick-slide:hover {
+  transform: scale(0.75);
+}
 
 .slick-center {
   transform: scale(1);
+}
+.slick-center:hover {
+  transform: scale(1.05);
 }
 
 .slider__item {
