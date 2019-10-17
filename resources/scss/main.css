@@ -300,6 +300,30 @@ nav li:nth-of-type(4) a div {
     text-align: center;
   }
 }
+/* COLORS */
+.table {
+  overflow: auto;
+  padding: 0 20px;
+  margin-bottom: 40px;
+}
+.table table {
+  min-width: 800px;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+.table table thead {
+  background-color: #731748;
+  color: #ffffff;
+}
+.table table thead tr td {
+  border: 1px solid #b1b1b1;
+  padding: 15px 20px;
+}
+.table table tbody tr td {
+  border: 1px solid #b1b1b1;
+  padding: 15px;
+}
+
 footer {
   padding: 20px;
   position: absolute;

@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dcc61ab-7c7c-4438-872b-20bd84441e04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/functions/sendEmail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/scss/_table.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/scss/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/g-suite-cources.html" beforeDir="false" afterPath="$PROJECT_DIR$/g-suite-cources.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/scss/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/scss/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/scss/slider.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/slider.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/scss/slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +92,7 @@
       <workItem from="1571062506057" duration="1983000" />
       <workItem from="1571066682317" duration="10496000" />
       <workItem from="1571207506427" duration="309000" />
-      <workItem from="1571303761928" duration="1557000" />
+      <workItem from="1571303761928" duration="5586000" />
     </task>
     <servers />
   </component>

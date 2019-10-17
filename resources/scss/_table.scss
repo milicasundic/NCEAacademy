@@ -1,0 +1,32 @@
+@import "variables";
+
+.table{
+  overflow: auto;
+  padding: 0 20px;
+  margin-bottom: 40px;
+
+  table{
+    min-width: 800px;
+    margin: 0 auto;
+    border-collapse: collapse;
+
+    thead{
+      background-color: $purple;
+      color: #ffffff;
+      tr{
+        td{
+          border: 1px solid $grey;
+          padding: 15px 20px;
+        }
+      }
+    }
+    tbody{
+      tr{
+        td{
+          border: 1px solid $grey;
+          padding: 15px;
+        }
+      }
+    }
+  }
+}
